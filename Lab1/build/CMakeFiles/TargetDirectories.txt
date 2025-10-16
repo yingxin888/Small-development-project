@@ -1,0 +1,3 @@
+D:/C++/Lab1/build/CMakeFiles/2048.dir
+D:/C++/Lab1/build/CMakeFiles/edit_cache.dir
+D:/C++/Lab1/build/CMakeFiles/rebuild_cache.dir

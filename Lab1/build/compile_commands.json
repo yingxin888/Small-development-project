@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/C++/Lab1/build",
+  "command": "d:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2048.dir\\src\\main.cpp.obj -c D:\\C++\\Lab1\\src\\main.cpp",
+  "file": "D:/C++/Lab1/src/main.cpp",
+  "output": "CMakeFiles/2048.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/C++/Lab1/build",
+  "command": "d:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2048.dir\\src\\Game.cpp.obj -c D:\\C++\\Lab1\\src\\Game.cpp",
+  "file": "D:/C++/Lab1/src/Game.cpp",
+  "output": "CMakeFiles/2048.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "D:/C++/Lab1/build",
+  "command": "d:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2048.dir\\src\\GameBoard.cpp.obj -c D:\\C++\\Lab1\\src\\GameBoard.cpp",
+  "file": "D:/C++/Lab1/src/GameBoard.cpp",
+  "output": "CMakeFiles/2048.dir/src/GameBoard.cpp.obj"
+},
+{
+  "directory": "D:/C++/Lab1/build",
+  "command": "d:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2048.dir\\src\\InputHandler.cpp.obj -c D:\\C++\\Lab1\\src\\InputHandler.cpp",
+  "file": "D:/C++/Lab1/src/InputHandler.cpp",
+  "output": "CMakeFiles/2048.dir/src/InputHandler.cpp.obj"
+},
+{
+  "directory": "D:/C++/Lab1/build",
+  "command": "d:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2048.dir\\src\\GameRender.cpp.obj -c D:\\C++\\Lab1\\src\\GameRender.cpp",
+  "file": "D:/C++/Lab1/src/GameRender.cpp",
+  "output": "CMakeFiles/2048.dir/src/GameRender.cpp.obj"
+}
+]
