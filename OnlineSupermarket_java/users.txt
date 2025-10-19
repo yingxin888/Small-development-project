@@ -1,0 +1,9 @@
+ljn061231,qwertyuiop,false
+ljn,123456,false
+123456,123456,false
+qwert,123456,true
+,,false
+,,true
+abcd,abcd,false
+zxcv,123,true
+asdf,1,true
